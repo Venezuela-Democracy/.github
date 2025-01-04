@@ -1,6 +1,6 @@
 # The problem Venezuela-Democracy solves
 
-By combining the power of blockchain, DAO mechanisms, and Telegram for interaction, this democracy game could offer a dynamic, interactive, and educational platform for Venezuelans. It would provide them with the tools to better understand their rights, responsibilities, and the mechanics of governance in a modern digital context. Through practical experience, critical thinking, and direct involvement in democratic processes, users could be better equipped to participate in and shape the future of their country.
+By combining the power of blockchain, DAO mechanisms, and Telegram for interaction, this democracy game could offer a dynamic, interactive, and educational platform for people. It would provide them with the tools to better understand their rights, responsibilities, and the mechanics of governance in a modern digital context. Through practical experience, critical thinking, and direct involvement in democratic processes, users could be better equipped to participate in and shape the future of their country.
 
 ## Building Civic Awareness and Participation
 
